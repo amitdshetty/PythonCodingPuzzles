@@ -26,6 +26,17 @@ Coding Puzzles in Python solved on a daily basis. It's been fun.
                  Solved Puzzles Listed
              </td>
          <tr>
+         <tr>
+             <td>
+                 PythonSandbox
+             </td>
+             <td>
+                 Google and other places
+             </td>
+             <td>
+                 Playing around with advanced Python ceoncepts I came across
+             </td>
+         </tr>
     </table>
 </div>
 
