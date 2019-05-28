@@ -4,8 +4,8 @@ Coding Puzzles in Python solved on a daily basis. It's been fun.
 
 <div style="text-align:center">
     <table style="width:100%" align="center">
-        <tr>
-            <th align="center">
+        <tr align="center">
+            <th>
                 Folder
             </th>
             <th>
@@ -15,7 +15,7 @@ Coding Puzzles in Python solved on a daily basis. It's been fun.
                 Description
             </th>
         </tr>
-        <tr>
+        <tr align="center">
             <td>
                 PracticePythonOrg
             </td>
@@ -24,8 +24,19 @@ Coding Puzzles in Python solved on a daily basis. It's been fun.
             </td>
             <td>
                  Solved Puzzles Listed
-             </td>
-         <tr>
+             </td>
+         </tr>
+         <tr align="center">
+             <td>
+                 PythonSandbox
+             </td>
+             <td>
+                 Google and other places
+             </td>
+             <td>
+                 Playing around with advanced Python concepts I came across
+             </td>
+         </tr>
     </table>
 </div>
 
