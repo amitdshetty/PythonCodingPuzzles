@@ -26,7 +26,7 @@ Coding Puzzles in Python solved on a daily basis. It's been fun.
                  Solved Puzzles Listed
              </td>
          </tr>
-         <tr align="center">
+         <tr>
              <td>
                  PythonSandbox
              </td>
