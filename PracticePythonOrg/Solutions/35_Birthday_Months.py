@@ -56,7 +56,9 @@ def prepare_month_dictionary():
             # Useful method to sort a dictionary by value and return a dictionary
             for key, value in sorted(final_dict.items(), key=lambda x: x[1], reverse=True):
                 final_dict_sorted[key] = value
-            print(final_dict_sorted)
+            print("Number of people having birthdays per month\n")
+            # json dumps pretty prints the dictionary
+            print(json.dumps(final_dict_sorted, indent=1))
 
 
 def check_if_file_empty():
